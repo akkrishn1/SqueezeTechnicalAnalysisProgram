@@ -1,0 +1,981 @@
+Ticker: MA; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+MA is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: MA; Stacked EMA
+ is in the positive direction
+Ticker: MA; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: UNH; Squeeze_scan
+ 1.0,red
+stock is very close to the lower bollinger or even below it, watch the candles for bullishness and possible news.  Cover shorts if any or start looking to buy if the market is conducive.  Watch for squeeze as well
+UNH has room to run for the moment for the keltners
+Ticker: UNH; Stacked EMA
+ is neutral
+Ticker: UNH; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: META; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+META is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: META; Stacked EMA
+ is in the positive direction
+Ticker: META; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: AAPL; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+AAPL has room to run for the moment for the keltners
+Ticker: AAPL; Stacked EMA
+ is in the positive direction
+Ticker: AAPL; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: MSFT; Squeeze_scan
+ 1.0,red
+stock is between the bollingers at the moment, it is neutral
+MSFT has room to run for the moment for the keltners
+Ticker: MSFT; Stacked EMA
+ is in the positive direction
+Ticker: MSFT; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: ADBE; Squeeze_scan
+ 1.0,red
+stock is between the bollingers at the moment, it is neutral
+ADBE has room to run for the moment for the keltners
+Ticker: ADBE; Stacked EMA
+ is in the positive direction
+Ticker: ADBE; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: NFLX; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+NFLX is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: NFLX; Stacked EMA
+ is in the positive direction
+Ticker: NFLX; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: NVDA; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+NVDA has room to run for the moment for the keltners
+Ticker: NVDA; Stacked EMA
+ is in the positive direction
+Ticker: NVDA; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: AXP; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+AXP is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AXP; Stacked EMA
+ is in the positive direction
+Ticker: AXP; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: WFC; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+WFC is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: WFC; Stacked EMA
+ is in the positive direction
+Ticker: WFC; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ULTA; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+ULTA is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ULTA; Stacked EMA
+ is in the positive direction
+Ticker: ULTA; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: QQQ; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+QQQ is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: QQQ; Stacked EMA
+ is in the positive direction
+Ticker: QQQ; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: SPY; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+SPY is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: SPY; Stacked EMA
+ is in the positive direction
+Ticker: SPY; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: AMD; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+AMD is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AMD; Stacked EMA
+ is in the positive direction
+Ticker: AMD; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: LMT; Squeeze_scan
+ 1.0,blue
+stock is between the bollingers at the moment, it is neutral
+LMT has room to run for the moment for the keltners
+Ticker: LMT; Stacked EMA
+ is in the positive direction
+Ticker: LMT; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: JD; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+JD has room to run for the moment for the keltners
+Ticker: JD; Stacked EMA
+ is in the negative direction
+Ticker: JD; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: PYPL; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+PYPL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PYPL; Stacked EMA
+ is neutral
+Ticker: PYPL; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: V; Squeeze_scan
+ 1.0,blue
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+V has room to run for the moment for the keltners
+Ticker: V; Stacked EMA
+ is in the positive direction
+Ticker: V; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: CLF; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+CLF is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: CLF; Stacked EMA
+ is in the positive direction
+Ticker: CLF; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: SQQQ; Squeeze_scan
+ 0.0,red
+stock is very close to the lower bollinger or even below it, watch the candles for bullishness and possible news.  Cover shorts if any or start looking to buy if the market is conducive.  Watch for squeeze as well
+SQQQ has room to run for the moment for the keltners
+Ticker: SQQQ; Stacked EMA
+ is in the negative direction
+Ticker: SQQQ; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: STM; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+STM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: STM; Stacked EMA
+ is in the positive direction
+Ticker: STM; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ALGM; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+ALGM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ALGM; Stacked EMA
+ is neutral
+Ticker: ALGM; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: DKNG; Squeeze_scan
+ 1.0,red
+stock is between the bollingers at the moment, it is neutral
+DKNG has room to run for the moment for the keltners
+Ticker: DKNG; Stacked EMA
+ is neutral
+Ticker: DKNG; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: PERI; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+PERI has room to run for the moment for the keltners
+Ticker: PERI; Stacked EMA
+ is neutral
+Ticker: PERI; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: WING; Squeeze_scan
+ 0.0,blue
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+WING is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: WING; Stacked EMA
+ is in the positive direction
+Ticker: WING; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: LSCC; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+LSCC is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: LSCC; Stacked EMA
+ is neutral
+Ticker: LSCC; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: RELY; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+RELY has room to run for the moment for the keltners
+Ticker: RELY; Stacked EMA
+ is in the negative direction
+Ticker: RELY; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: SMCI; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+SMCI is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: SMCI; Stacked EMA
+ is in the positive direction
+Ticker: SMCI; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: CPRX; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+CPRX has room to run for the moment for the keltners
+Ticker: CPRX; Stacked EMA
+ is in the positive direction
+Ticker: CPRX; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: MELI; Squeeze_scan
+ 1.0,blue
+stock is between the bollingers at the moment, it is neutral
+MELI has room to run for the moment for the keltners
+Ticker: MELI; Stacked EMA
+ is in the positive direction
+Ticker: MELI; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: IOT; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+IOT has room to run for the moment for the keltners
+Ticker: IOT; Stacked EMA
+ is in the positive direction
+Ticker: IOT; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: DUOL; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+DUOL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: DUOL; Stacked EMA
+ is in the positive direction
+Ticker: DUOL; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: MBLY; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+MBLY has room to run for the moment for the keltners
+Ticker: MBLY; Stacked EMA
+ is in the positive direction
+Ticker: MBLY; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: ANET; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+ANET is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ANET; Stacked EMA
+ is in the positive direction
+Ticker: ANET; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: MPWR; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+MPWR is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: MPWR; Stacked EMA
+ is in the positive direction
+Ticker: MPWR; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: PHM; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+PHM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PHM; Stacked EMA
+ is in the positive direction
+Ticker: PHM; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: MTH; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+MTH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: MTH; Stacked EMA
+ is in the positive direction
+Ticker: MTH; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: TPH; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+TPH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TPH; Stacked EMA
+ is in the positive direction
+Ticker: TPH; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ONON; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+ONON has room to run for the moment for the keltners
+Ticker: ONON; Stacked EMA
+ is neutral
+Ticker: ONON; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: RMBS; Squeeze_scan
+ 1.0,red
+stock is between the bollingers at the moment, it is neutral
+RMBS has room to run for the moment for the keltners
+Ticker: RMBS; Stacked EMA
+ is in the positive direction
+Ticker: RMBS; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: FOUR; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+FOUR is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: FOUR; Stacked EMA
+ is in the positive direction
+Ticker: FOUR; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: CLH; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+CLH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: CLH; Stacked EMA
+ is in the positive direction
+Ticker: CLH; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: FND; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+FND is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: FND; Stacked EMA
+ is in the positive direction
+Ticker: FND; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: LNTH; Squeeze_scan
+ 0.0,red
+stock is very close to the lower bollinger or even below it, watch the candles for bullishness and possible news.  Cover shorts if any or start looking to buy if the market is conducive.  Watch for squeeze as well
+LNTH has room to run for the moment for the keltners
+Ticker: LNTH; Stacked EMA
+ is neutral
+Ticker: LNTH; Directional trend is negative
+
+refer to the ADX trend flag
+Ticker: AXON; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+AXON is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AXON; Stacked EMA
+ is in the positive direction
+Ticker: AXON; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: CDNS; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+CDNS has room to run for the moment for the keltners
+Ticker: CDNS; Stacked EMA
+ is in the positive direction
+Ticker: CDNS; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: GWW; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+GWW has room to run for the moment for the keltners
+Ticker: GWW; Stacked EMA
+ is in the positive direction
+Ticker: GWW; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: CRM; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+CRM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: CRM; Stacked EMA
+ is in the positive direction
+Ticker: CRM; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: AGL; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+AGL has room to run for the moment for the keltners
+Ticker: AGL; Stacked EMA
+ is neutral
+Ticker: AGL; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: AVGO; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+AVGO is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: AVGO; Stacked EMA
+ is in the positive direction
+Ticker: AVGO; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: LRCX; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+LRCX is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: LRCX; Stacked EMA
+ is in the positive direction
+Ticker: LRCX; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: FLYW; Squeeze_scan
+ 1.0,cyan
+stock is between the bollingers at the moment, it is neutral
+FLYW has room to run for the moment for the keltners
+Ticker: FLYW; Stacked EMA
+ is in the negative direction
+Ticker: FLYW; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: GPK; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+GPK is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: GPK; Stacked EMA
+ is in the positive direction
+Ticker: GPK; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: SMAR; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+SMAR has room to run for the moment for the keltners
+Ticker: SMAR; Stacked EMA
+ is in the positive direction
+Ticker: SMAR; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: LULU; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+LULU is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: LULU; Stacked EMA
+ is in the positive direction
+Ticker: LULU; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: PWR; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+PWR is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: PWR; Stacked EMA
+ is in the positive direction
+Ticker: PWR; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: TSM; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+TSM is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TSM; Stacked EMA
+ is in the positive direction
+Ticker: TSM; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ADI; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+ADI is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ADI; Stacked EMA
+ is in the positive direction
+Ticker: ADI; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: DV; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+DV is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: DV; Stacked EMA
+ is in the positive direction
+Ticker: DV; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: HUBS; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+HUBS is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: HUBS; Stacked EMA
+ is in the positive direction
+Ticker: HUBS; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: WDAY; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+WDAY has room to run for the moment for the keltners
+Ticker: WDAY; Stacked EMA
+ is in the positive direction
+Ticker: WDAY; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: CPRT; Squeeze_scan
+ 0.0,red
+stock is between the bollingers at the moment, it is neutral
+CPRT has room to run for the moment for the keltners
+Ticker: CPRT; Stacked EMA
+ is in the positive direction
+Ticker: CPRT; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: TTD; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+TTD is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TTD; Stacked EMA
+ is neutral
+Ticker: TTD; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: BJ; Squeeze_scan
+ 1.0,cyan
+stock is between the bollingers at the moment, it is neutral
+BJ has room to run for the moment for the keltners
+Ticker: BJ; Stacked EMA
+ is in the negative direction
+Ticker: BJ; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: VRTX; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+VRTX is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: VRTX; Stacked EMA
+ is in the positive direction
+Ticker: VRTX; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: ITCI; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+ITCI has room to run for the moment for the keltners
+Ticker: ITCI; Stacked EMA
+ is in the positive direction
+Ticker: ITCI; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: FND; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+FND is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: FND; Stacked EMA
+ is in the positive direction
+Ticker: FND; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: WING; Squeeze_scan
+ 0.0,blue
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+WING is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: WING; Stacked EMA
+ is in the positive direction
+Ticker: WING; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XPOF; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+XPOF has room to run for the moment for the keltners
+Ticker: XPOF; Stacked EMA
+ is in the negative direction
+Ticker: XPOF; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: ^DJI; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+^DJI is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ^DJI; Stacked EMA
+ is in the positive direction
+Ticker: ^DJI; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: DIA; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+DIA is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: DIA; Stacked EMA
+ is in the positive direction
+Ticker: DIA; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ^IXIC; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+^IXIC is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ^IXIC; Stacked EMA
+ is in the positive direction
+Ticker: ^IXIC; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: TIP; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+TIP is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TIP; Stacked EMA
+ is in the positive direction
+Ticker: TIP; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: TLT; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+TLT is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: TLT; Stacked EMA
+ is neutral
+Ticker: TLT; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: DX=F; Squeeze_scan
+ 0.0,red
+stock is very close to the lower bollinger or even below it, watch the candles for bullishness and possible news.  Cover shorts if any or start looking to buy if the market is conducive.  Watch for squeeze as well
+DX=F has room to run for the moment for the keltners
+Ticker: DX=F; Stacked EMA
+ is in the negative direction
+Ticker: DX=F; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: YM=F; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+YM=F is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: YM=F; Stacked EMA
+ is in the positive direction
+Ticker: YM=F; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ES=F; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+ES=F is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ES=F; Stacked EMA
+ is in the positive direction
+Ticker: ES=F; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: NQ=F; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+NQ=F is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: NQ=F; Stacked EMA
+ is in the positive direction
+Ticker: NQ=F; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ^VIX; Squeeze_scan
+ 1.0,yellow
+stock is between the bollingers at the moment, it is neutral
+^VIX has room to run for the moment for the keltners
+Ticker: ^VIX; Stacked EMA
+ is in the negative direction
+Ticker: ^VIX; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: TVIX; Squeeze_scan
+ 1.0,blue
+stock is very close to the lower bollinger or even below it, watch the candles for bullishness and possible news.  Cover shorts if any or start looking to buy if the market is conducive.  Watch for squeeze as well
+TVIX has room to run for the moment for the keltners
+Ticker: TVIX; Stacked EMA
+ is in the negative direction
+Ticker: TVIX; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: UVXY; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+UVXY has room to run for the moment for the keltners
+Ticker: UVXY; Stacked EMA
+ is in the negative direction
+Ticker: UVXY; Directional trend is negative
+
+Extreme negative trend, wait for a pullback and invest in puts
+Ticker: CL=F; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+CL=F has room to run for the moment for the keltners
+Ticker: CL=F; Stacked EMA
+ is in the negative direction
+Ticker: CL=F; Directional trend is negative
+
+refer to the ADX trend flag
+Ticker: BTC-USD; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+BTC-USD has room to run for the moment for the keltners
+Ticker: BTC-USD; Stacked EMA
+ is in the positive direction
+Ticker: BTC-USD; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: ETH-USD; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+ETH-USD has room to run for the moment for the keltners
+Ticker: ETH-USD; Stacked EMA
+ is in the positive direction
+Ticker: ETH-USD; Directional trend is negative
+
+refer to the ADX trend flag
+Ticker: AUDJPY=X; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+AUDJPY=X has room to run for the moment for the keltners
+Ticker: AUDJPY=X; Stacked EMA
+ is neutral
+Ticker: AUDJPY=X; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XLE; Squeeze_scan
+ 1.0,cyan
+stock is between the bollingers at the moment, it is neutral
+XLE has room to run for the moment for the keltners
+Ticker: XLE; Stacked EMA
+ is neutral
+Ticker: XLE; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XLF; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XLF is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XLF; Stacked EMA
+ is in the positive direction
+Ticker: XLF; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XLU; Squeeze_scan
+ 1.0,blue
+stock is between the bollingers at the moment, it is neutral
+XLU has room to run for the moment for the keltners
+Ticker: XLU; Stacked EMA
+ is neutral
+Ticker: XLU; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XLI; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XLI is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XLI; Stacked EMA
+ is in the positive direction
+Ticker: XLI; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: GDX; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+GDX is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: GDX; Stacked EMA
+ is in the positive direction
+Ticker: GDX; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: XLK; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XLK is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XLK; Stacked EMA
+ is in the positive direction
+Ticker: XLK; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XLV; Squeeze_scan
+ 0.0,blue
+stock is between the bollingers at the moment, it is neutral
+XLV is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XLV; Stacked EMA
+ is in the positive direction
+Ticker: XLV; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XLP; Squeeze_scan
+ 1.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XLP has room to run for the moment for the keltners
+Ticker: XLP; Stacked EMA
+ is neutral
+Ticker: XLP; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XLB; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XLB is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XLB; Stacked EMA
+ is in the positive direction
+Ticker: XLB; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XOP; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+XOP has room to run for the moment for the keltners
+Ticker: XOP; Stacked EMA
+ is in the negative direction
+Ticker: XOP; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: IYR; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+IYR is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: IYR; Stacked EMA
+ is in the positive direction
+Ticker: IYR; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XHB; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+XHB is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XHB; Stacked EMA
+ is in the positive direction
+Ticker: XHB; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: ITB; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+ITB is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: ITB; Stacked EMA
+ is in the positive direction
+Ticker: ITB; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: VNQ; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+VNQ is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: VNQ; Stacked EMA
+ is in the positive direction
+Ticker: VNQ; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: GDXJ; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+GDXJ has room to run for the moment for the keltners
+Ticker: GDXJ; Stacked EMA
+ is in the positive direction
+Ticker: GDXJ; Directional trend is neutral or sideways
+
+refer to the ADX trend flag
+Ticker: IYE; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+IYE has room to run for the moment for the keltners
+Ticker: IYE; Stacked EMA
+ is neutral
+Ticker: IYE; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: OIH; Squeeze_scan
+ 0.0,yellow
+stock is between the bollingers at the moment, it is neutral
+OIH has room to run for the moment for the keltners
+Ticker: OIH; Stacked EMA
+ is in the negative direction
+Ticker: OIH; Directional trend is positive
+
+refer to the ADX trend flag
+Ticker: XME; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XME is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XME; Stacked EMA
+ is in the positive direction
+Ticker: XME; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XRT; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+XRT is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XRT; Stacked EMA
+ is in the positive direction
+Ticker: XRT; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: SMH; Squeeze_scan
+ 0.0,cyan
+stock is very close to the upper bollinger, watch the candles for bearishness and possible news and either take profits or start hedging.  Also watch for squeeze
+SMH is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: SMH; Stacked EMA
+ is in the positive direction
+Ticker: SMH; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: IBB; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+IBB is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: IBB; Stacked EMA
+ is neutral
+Ticker: IBB; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: KBE; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+KBE is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: KBE; Stacked EMA
+ is in the positive direction
+Ticker: KBE; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: KRE; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+KRE is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: KRE; Stacked EMA
+ is in the positive direction
+Ticker: KRE; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
+Ticker: XTL; Squeeze_scan
+ 0.0,cyan
+stock is between the bollingers at the moment, it is neutral
+XTL is very close to the upper keltner channel, watch the candles for bearishness and possible news and either take profits or start hedging
+Ticker: XTL; Stacked EMA
+ is neutral
+Ticker: XTL; Directional trend is positive
+
+Extreme positive trend, wait for a pullback and invest in calls
